@@ -146,4 +146,4 @@ MIT License
 ## 📄 Acknowledgements
 
 - [Frontend](https://github.com/Siddharth77s/Msme-lending-decision-system/tree/main/frontend)
-- [Backend](https://github.com/siddharthshinde/MSME-Lending-Decision-System-Backend)
+- [Backend](https://github.com/Siddharth77s/Msme-lending-decision-system/tree/main/backend)
