@@ -1,5 +1,5 @@
 export const submitApplication = async (payload) => {
-  const res = await fetch("http://localhost:5000/api/decision", {
+  const res = await fetch("https://msme-backend.onrender.com/api/decision", {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
