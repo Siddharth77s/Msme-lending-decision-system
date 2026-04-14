@@ -1,5 +1,5 @@
 export const submitApplication = async (payload) => {
-  const res = await fetch("https://msme-backend.onrender.com/api/decision", {
+  const res = await fetch(https://msme-lending-decision-system.onrender.com/api/decision, {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
